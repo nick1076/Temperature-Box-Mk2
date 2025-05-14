@@ -1,0 +1,4 @@
+Added Component: Designator=U?(Amazon OLED Display Module)
+Add component (AddParameter): Name = "Amazon Link"; Value = "https://www.amazon.com/dp/B09C5K91H7?ref=ppx_yo2ov_dt_b_product_details&th=1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Main Member=Component U? Amazon OLED Display Module
