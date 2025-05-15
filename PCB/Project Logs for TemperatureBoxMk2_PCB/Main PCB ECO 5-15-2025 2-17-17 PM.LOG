@@ -1,0 +1,223 @@
+Removed Pin From Net: NetName=GND Pin=P2-1
+Removed Pin From Net: NetName=5V0 Pin=P2-3
+Removed Pin From Net: NetName=IO10 Pin=P2-4
+Removed Pin From Net: NetName=IO9 Pin=P2-5
+Removed Pin From Net: NetName=IO7 Pin=P2-6
+Removed Pin From Net: NetName=IO6 Pin=P2-7
+Removed Pin From Net: NetName=IO5 Pin=P2-8
+Removed Pin From Net: NetName=IO4 Pin=P2-9
+Removed Pin From Net: NetName=IO1 Pin=P2-12
+Change Footprint: Footprint Not Found 61300411121
+Change Component Comment : Designator=P2 Old Comment=61301211121 New Comment=61300411121
+Change Component Designator: OldDesignator=C2 NewDesignator=C3
+Change Component Designator: OldDesignator=C3 NewDesignator=C2
+Change Component Designator: OldDesignator=R1 NewDesignator=R2
+Change Component Designator: OldDesignator=R2 NewDesignator=R3
+Change Component Designator: OldDesignator=R3 NewDesignator=R1
+Change Component Designator: OldDesignator=R4 NewDesignator=R6
+Change Component Designator: OldDesignator=R5 NewDesignator=R7
+Change Component Designator: OldDesignator=R6 NewDesignator=R8
+Change Component Designator: OldDesignator=R7 NewDesignator=R9
+Change component parameters: Designator = "P2" ("P2"); Footprint = "61301211121"; UniqueID = "\RUDSUCZX" ("\RUDSUCZX")
+Change component parameters (AddParameter): Name = "Category"; Value = "Board-to-Board Connectors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/61300411121?ad"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/61300411121?ad"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Resistance"; Value = "20mOhm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gender"; Value = "Pin Header"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "61300411121"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Match Code"; Value = "WR-PHD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Pins"; Value = "4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature Max"; Value = "105°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature Min"; Value = "-40°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Bag"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Current"; Value = "3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Withstanding Voltage"; Value = "500V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Working Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Added Component: Designator=C6(CAPC3216X110X50LL20T25)
+Add component (AddParameter): Name = "Brand"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance - nF"; Value = "1000nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code - in"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code - mm"; Value = "3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Height"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Length"; Value = "3.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Width"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Class"; Value = "Class1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.kemet.com/docfinder?Partnumber=C1206C105K5RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "02/2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dimensions"; Value = "1.6mmWx3.2mmLx1mmH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Factory Pack Quantity"; Value = "2500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.kemet.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Operating Temperature"; Value = "+125C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Operating Temperature"; Value = "-55C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-55Cto+125C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "1206(3216metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2-Pin Surface Mount Device, Body 3.2 x 1.6 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product"; Value = "GeneralTypeMLCCs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "MultilayerCeramicCapacitorsMLCC-SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Details"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "C1206C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient / Code"; Value = "+/-15%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "SMDMLCCX7R6.3-250VDCCommericalGrade"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating DC"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C7(FP-C1206C-EB-MFG)
+Add component (AddParameter): Name = "Automotive"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Automotive Grade"; Value = "Grade 0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "0.10 µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Cap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://content.kemet.com/datasheets/KEM_C1007_X8R_ULTRA_150C_SMD.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L1"; Value = "Passive Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L2"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L3"; Value = "Ceramic Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Description"; Value = "CAP CER 0.1UF 100V X7R 1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.88mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ipc Land Pattern Name"; Value = "CAPC320160X78"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "C1206C104K1RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Description"; Value = "CAP CER 0.1UF 100V X7R 1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart"; Value = "https://octopart.com/c1206c104k1ractu-kemet-89521"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "C1206C-EB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55°C to +150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Characteristic"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "15%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range High"; Value = "+150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range Low"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.10 µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100 V"; VariantName = "[No Variations]"
+Added Component: Designator=C8(FP-C1206C-EB-MFG)
+Add component (AddParameter): Name = "Automotive"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Automotive Grade"; Value = "Grade 0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "0.10 µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Cap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://content.kemet.com/datasheets/KEM_C1007_X8R_ULTRA_150C_SMD.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L1"; Value = "Passive Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L2"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L3"; Value = "Ceramic Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Description"; Value = "CAP CER 0.1UF 100V X7R 1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.88mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ipc Land Pattern Name"; Value = "CAPC320160X78"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "C1206C104K1RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Description"; Value = "CAP CER 0.1UF 100V X7R 1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart"; Value = "https://octopart.com/c1206c104k1ractu-kemet-89521"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "C1206C-EB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55°C to +150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Characteristic"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "15%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range High"; Value = "+150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range Low"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.10 µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100 V"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RESC3216X70X50LL20T25)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERA8AEB103V"; VariantName = "[No Variations]"
+Added Component: Designator=R5(RESC3216X70X50LL20T25)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERA8AEB103V"; VariantName = "[No Variations]"
+Added Component: Designator=R10(RESC3216X70X50LL05T20)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERJ8ENF4701V"; VariantName = "[No Variations]"
+Added Component: Designator=SW1(FP-B3S-1000P-MFG)
+Add component (AddParameter): Name = "Actuator Length"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Actuator Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Current Rating"; Value = "50mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Bronze"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Silver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "100mR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "50mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Electrical Life"; Value = "500000Cycles"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "3.65mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Illumination Type"; Value = "Non-Illuminated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "6.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = "50mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "70°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Voltage Rating (DC)"; Value = "24V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mechanical Life"; Value = "500000Cycles"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-25°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Poles"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Force"; Value = "1.57N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Straight"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "IP67"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch Function"; Value = "Off-Mom"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch Travel"; Value = "0.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Gull Wing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Throw Configuration"; Value = "SPST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "24V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.010582oz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "6mm"; VariantName = "[No Variations]"
+Added Component: Designator=U3(Amazon OLED Display Module)
+Add component (AddParameter): Name = "Amazon Link"; Value = "https://www.amazon.com/dp/B09C5K91H7?ref=ppx_yo2ov_dt_b_product_details&th=1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=3V3 Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=3V3 Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=3V3 Pin=C8-2
+Added Pin To Net: NetName=5V0 Pin=P2-1
+Added Pin To Net: NetName=GND Pin=P2-3
+Added Pin To Net: NetName=GND Pin=P2-4
+Added Pin To Net: NetName=3V3 Pin=R4-2
+Added Pin To Net: NetName=3V3 Pin=R5-2
+Added Pin To Net: NetName=IO9 Pin=R10-1
+Added Pin To Net: NetName=3V3 Pin=R10-2
+Add Pin To Net: Unknown Pin: Pin S1-1
+Add Pin To Net: Unknown Pin: Pin S1-2
+Add Pin To Net: Unknown Pin: Pin S1-4
+Added Pin To Net: NetName=IO4 Pin=SW1-1
+Added Pin To Net: NetName=IO4 Pin=SW1-2
+Added Pin To Net: NetName=GND Pin=SW1-3
+Added Pin To Net: NetName=GND Pin=SW1-4
+Added Pin To Net: NetName=GND Pin=U3-1
+Added Pin To Net: NetName=3V3 Pin=U3-2
+Change Net Name : Old Net Name=NetC3_2 New Net Name=NetC2_2
+Change Net Name : Old Net Name=NetR4_1 New Net Name=NetR6_1
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=NetR4_1 Pin=U1-16
+Added Pin To Net: NetName=NetR4_1 Pin=U3-4
+Added Net: Name=NetR4_1
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Pin To Net: NetName=NetR5_1 Pin=U1-15
+Added Pin To Net: NetName=NetR5_1 Pin=U3-3
+Added Net: Name=NetR5_1
+Added Member To Class: ClassName=Main Member=Component C6 1µF
+Added Member To Class: ClassName=Main Member=Component C7 0.1µF
+Added Member To Class: ClassName=Main Member=Component C8 0.1µF
+Added Member To Class: ClassName=Main Member=Component R8 330O
+Added Member To Class: ClassName=Main Member=Component R9 220O
+Added Member To Class: ClassName=Main Member=Component R10 4.7k
+Add Class Member: Failed to add class member : Component S1 DHT22
+Added Member To Class: ClassName=Main Member=Component SW1 B3S-1000P
+Added Member To Class: ClassName=Main Member=Component U3 Amazon OLED Display Module
