@@ -1,0 +1,17 @@
+Add component: Footprint Not Found 61300411121
+Added Component: Designator=S1(PCBComponent_1)
+Add component: Footprint Not Found VREG_TLV1117LV33DCYR
+Add Pin To Net: Unknown Pin: Pin P2-1
+Add Pin To Net: Unknown Pin: Pin P2-2
+Add Pin To Net: Unknown Pin: Pin P2-3
+Add Pin To Net: Unknown Pin: Pin P2-4
+Added Pin To Net: NetName=3V3 Pin=S1-1
+Added Pin To Net: NetName=IO9 Pin=S1-2
+Added Pin To Net: NetName=GND Pin=S1-4
+Add Pin To Net: Unknown Pin: Pin U2-1
+Add Pin To Net: Unknown Pin: Pin U2-2
+Add Pin To Net: Unknown Pin: Pin U2-3
+Add Pin To Net: Unknown Pin: Pin U2-4
+Add Class Member: Failed to add class member : Component P2 61300411121
+Added Member To Class: ClassName=Main Member=Component S1 DHT22
+Add Class Member: Failed to add class member : Component U2 TLV1117LV33DCYR

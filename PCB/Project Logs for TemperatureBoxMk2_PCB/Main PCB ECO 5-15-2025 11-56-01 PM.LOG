@@ -1,0 +1,5 @@
+Added Component: Designator=S1(DHT22_Footprint)
+Added Pin To Net: NetName=3V3 Pin=S1-1
+Added Pin To Net: NetName=IO9 Pin=S1-2
+Added Pin To Net: NetName=GND Pin=S1-4
+Added Member To Class: ClassName=Main Member=Component S1 DHT22
