@@ -88,134 +88,138 @@ DocumentPath=..\..\Custom-ESP32-Dev-Board\ESP32_PCB\Project Outputs for ESP32_PC
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=..\..\Custom-ESP32-Dev-Board\ESP32_PCB\Project Outputs for ESP32_PCB\Main-RoundHoles.TXT
+DocumentPath=Project Outputs for TemperatureBoxMk2_PCB\Design Rule Check - Main.html
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=..\..\Custom-ESP32-Dev-Board\ESP32_PCB\Project Outputs for ESP32_PCB\Main-SlotHoles.TXT
+DocumentPath=..\..\Custom-ESP32-Dev-Board\ESP32_PCB\Project Outputs for ESP32_PCB\Main-RoundHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=..\..\Custom-ESP32-Dev-Board\ESP32_PCB\Project Outputs for ESP32_PCB\Main.DRL
+DocumentPath=..\..\Custom-ESP32-Dev-Board\ESP32_PCB\Project Outputs for ESP32_PCB\Main-SlotHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=..\..\Custom-ESP32-Dev-Board\ESP32_PCB\Project Outputs for ESP32_PCB\Main.DRR
+DocumentPath=..\..\Custom-ESP32-Dev-Board\ESP32_PCB\Project Outputs for ESP32_PCB\Main.DRL
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=..\..\Custom-ESP32-Dev-Board\ESP32_PCB\Project Outputs for ESP32_PCB\Main.EXTREP
+DocumentPath=..\..\Custom-ESP32-Dev-Board\ESP32_PCB\Project Outputs for ESP32_PCB\Main.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=..\..\Custom-ESP32-Dev-Board\ESP32_PCB\Project Outputs for ESP32_PCB\Main.GBL
+DocumentPath=..\..\Custom-ESP32-Dev-Board\ESP32_PCB\Project Outputs for ESP32_PCB\Main.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=..\..\Custom-ESP32-Dev-Board\ESP32_PCB\Project Outputs for ESP32_PCB\Main.GBO
+DocumentPath=..\..\Custom-ESP32-Dev-Board\ESP32_PCB\Project Outputs for ESP32_PCB\Main.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=..\..\Custom-ESP32-Dev-Board\ESP32_PCB\Project Outputs for ESP32_PCB\Main.GBP
+DocumentPath=..\..\Custom-ESP32-Dev-Board\ESP32_PCB\Project Outputs for ESP32_PCB\Main.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=..\..\Custom-ESP32-Dev-Board\ESP32_PCB\Project Outputs for ESP32_PCB\Main.GBS
+DocumentPath=..\..\Custom-ESP32-Dev-Board\ESP32_PCB\Project Outputs for ESP32_PCB\Main.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=..\..\Custom-ESP32-Dev-Board\ESP32_PCB\Project Outputs for ESP32_PCB\Main.GD1
+DocumentPath=..\..\Custom-ESP32-Dev-Board\ESP32_PCB\Project Outputs for ESP32_PCB\Main.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=..\..\Custom-ESP32-Dev-Board\ESP32_PCB\Project Outputs for ESP32_PCB\Main.GG1
+DocumentPath=..\..\Custom-ESP32-Dev-Board\ESP32_PCB\Project Outputs for ESP32_PCB\Main.GD1
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=..\..\Custom-ESP32-Dev-Board\ESP32_PCB\Project Outputs for ESP32_PCB\Main.GKO
+DocumentPath=..\..\Custom-ESP32-Dev-Board\ESP32_PCB\Project Outputs for ESP32_PCB\Main.GG1
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=..\..\Custom-ESP32-Dev-Board\ESP32_PCB\Project Outputs for ESP32_PCB\Main.GM
+DocumentPath=..\..\Custom-ESP32-Dev-Board\ESP32_PCB\Project Outputs for ESP32_PCB\Main.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=..\..\Custom-ESP32-Dev-Board\ESP32_PCB\Project Outputs for ESP32_PCB\Main.GM1
+DocumentPath=..\..\Custom-ESP32-Dev-Board\ESP32_PCB\Project Outputs for ESP32_PCB\Main.GM
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=..\..\Custom-ESP32-Dev-Board\ESP32_PCB\Project Outputs for ESP32_PCB\Main.GM2
+DocumentPath=..\..\Custom-ESP32-Dev-Board\ESP32_PCB\Project Outputs for ESP32_PCB\Main.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=..\..\Custom-ESP32-Dev-Board\ESP32_PCB\Project Outputs for ESP32_PCB\Main.GM11
+DocumentPath=..\..\Custom-ESP32-Dev-Board\ESP32_PCB\Project Outputs for ESP32_PCB\Main.GM2
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=..\..\Custom-ESP32-Dev-Board\ESP32_PCB\Project Outputs for ESP32_PCB\Main.GM12
+DocumentPath=..\..\Custom-ESP32-Dev-Board\ESP32_PCB\Project Outputs for ESP32_PCB\Main.GM11
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=..\..\Custom-ESP32-Dev-Board\ESP32_PCB\Project Outputs for ESP32_PCB\Main.GM13
+DocumentPath=..\..\Custom-ESP32-Dev-Board\ESP32_PCB\Project Outputs for ESP32_PCB\Main.GM12
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=..\..\Custom-ESP32-Dev-Board\ESP32_PCB\Project Outputs for ESP32_PCB\Main.GM15
+DocumentPath=..\..\Custom-ESP32-Dev-Board\ESP32_PCB\Project Outputs for ESP32_PCB\Main.GM13
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=..\..\Custom-ESP32-Dev-Board\ESP32_PCB\Project Outputs for ESP32_PCB\Main.GM16
+DocumentPath=..\..\Custom-ESP32-Dev-Board\ESP32_PCB\Project Outputs for ESP32_PCB\Main.GM15
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=..\..\Custom-ESP32-Dev-Board\ESP32_PCB\Project Outputs for ESP32_PCB\Main.GM19
+DocumentPath=..\..\Custom-ESP32-Dev-Board\ESP32_PCB\Project Outputs for ESP32_PCB\Main.GM16
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=..\..\Custom-ESP32-Dev-Board\ESP32_PCB\Project Outputs for ESP32_PCB\Main.GM20
+DocumentPath=..\..\Custom-ESP32-Dev-Board\ESP32_PCB\Project Outputs for ESP32_PCB\Main.GM19
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=..\..\Custom-ESP32-Dev-Board\ESP32_PCB\Project Outputs for ESP32_PCB\Main.GM21
+DocumentPath=..\..\Custom-ESP32-Dev-Board\ESP32_PCB\Project Outputs for ESP32_PCB\Main.GM20
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=..\..\Custom-ESP32-Dev-Board\ESP32_PCB\Project Outputs for ESP32_PCB\Main.GM23
+DocumentPath=..\..\Custom-ESP32-Dev-Board\ESP32_PCB\Project Outputs for ESP32_PCB\Main.GM21
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=..\..\Custom-ESP32-Dev-Board\ESP32_PCB\Project Outputs for ESP32_PCB\Main.GM24
+DocumentPath=..\..\Custom-ESP32-Dev-Board\ESP32_PCB\Project Outputs for ESP32_PCB\Main.GM23
 DItemRevisionGUID=
 
 [GeneratedDocument27]
-DocumentPath=..\..\Custom-ESP32-Dev-Board\ESP32_PCB\Project Outputs for ESP32_PCB\Main.GPB
+DocumentPath=..\..\Custom-ESP32-Dev-Board\ESP32_PCB\Project Outputs for ESP32_PCB\Main.GM24
 DItemRevisionGUID=
 
 [GeneratedDocument28]
-DocumentPath=..\..\Custom-ESP32-Dev-Board\ESP32_PCB\Project Outputs for ESP32_PCB\Main.GPT
+DocumentPath=..\..\Custom-ESP32-Dev-Board\ESP32_PCB\Project Outputs for ESP32_PCB\Main.GPB
 DItemRevisionGUID=
 
 [GeneratedDocument29]
-DocumentPath=..\..\Custom-ESP32-Dev-Board\ESP32_PCB\Project Outputs for ESP32_PCB\Main.GTL
+DocumentPath=..\..\Custom-ESP32-Dev-Board\ESP32_PCB\Project Outputs for ESP32_PCB\Main.GPT
 DItemRevisionGUID=
 
 [GeneratedDocument30]
-DocumentPath=..\..\Custom-ESP32-Dev-Board\ESP32_PCB\Project Outputs for ESP32_PCB\Main.GTO
+DocumentPath=..\..\Custom-ESP32-Dev-Board\ESP32_PCB\Project Outputs for ESP32_PCB\Main.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument31]
-DocumentPath=..\..\Custom-ESP32-Dev-Board\ESP32_PCB\Project Outputs for ESP32_PCB\Main.GTP
+DocumentPath=..\..\Custom-ESP32-Dev-Board\ESP32_PCB\Project Outputs for ESP32_PCB\Main.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument32]
-DocumentPath=..\..\Custom-ESP32-Dev-Board\ESP32_PCB\Project Outputs for ESP32_PCB\Main.GTS
+DocumentPath=..\..\Custom-ESP32-Dev-Board\ESP32_PCB\Project Outputs for ESP32_PCB\Main.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument33]
-DocumentPath=..\..\Custom-ESP32-Dev-Board\ESP32_PCB\Project Outputs for ESP32_PCB\Main.LDP
+DocumentPath=..\..\Custom-ESP32-Dev-Board\ESP32_PCB\Project Outputs for ESP32_PCB\Main.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument34]
+DocumentPath=..\..\Custom-ESP32-Dev-Board\ESP32_PCB\Project Outputs for ESP32_PCB\Main.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument35]
 DocumentPath=..\..\Custom-ESP32-Dev-Board\ESP32_PCB\Project Outputs for ESP32_PCB\Main.REP
 DItemRevisionGUID=
 
