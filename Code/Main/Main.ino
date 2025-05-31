@@ -2,7 +2,7 @@
 #include <Wire.h> //Custom i2c pinout library
 #include <Adafruit_GFX.h> //Graphics library for display
 #include <Adafruit_SSD1306.h> //Display library
-#include "DHT.h" //DHT22 (Temp/humidity sensor) library
+#include <DHT.h> //DHT22 (Temp/humidity sensor) library
 
 //Vars
 #define SCREEN_WIDTH 128 //Width of display used
@@ -18,6 +18,7 @@ bool initialized = false; //Tracks if screen initialized properly
 bool tempMode = true; //When true, displays temperature, otherwise shows humidity
 
 unsigned int tick = 0; //tick increments once per millisecond, used to queue actions in loop on intervals whilst checking inputs per tick
+int buttonTick = 0;
 
 Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, -1); //Screen
 DHT dht(DHT_PIN, DHT_TYPE); //Temperature Sensor
@@ -54,30 +55,40 @@ void loop()
   //Check if display never initialized, and return if so
   if (!initialized) { return; }
 
-  if (tick == 2000)
+  if (tick >= 200)
   {
-    //Grab new temperature value and update screen
-    UpdateGUI();
     tick=0;
   }
   
-  if (digitalRead(BUTTON_PIN) == LOW && tick % 100 == 0)
+  delay(10);
+  tick++;
+  buttonTick--;
+
+  if (tick == 1)
   {
-    tempMode = !tempMode;
+    //Grab new temperature value and update screen
+    UpdateGUI();
   }
   
-  delay(1);
-  tick++;
+  if (digitalRead(BUTTON_PIN) == LOW && buttonTick <= 0)
+  {
+    tempMode = !tempMode;
+    buttonTick = 20;
+    UpdateGUI();
+  }
 }
 
 //Grabs new temperature/humidity value from DHT22 and updates screen with it
 void UpdateGUI(){
-  double tempRaw = dht.readTemperature(true);
-  double humiRaw = dht.readHumidity(true);
+  double humiRaw = dht.readHumidity();
+  double tempRaw = dht.readTemperature();
   
   if (isnan(tempRaw) || isnan(humiRaw)) {
+    Display("NaN");
     return;
   }
+
+  tempRaw = tempRaw * 1.8 + 32; //C to F
 
   byte temp = (byte)tempRaw;
   byte humi = (byte)humiRaw;
@@ -107,8 +118,9 @@ void UpdateGUI(){
     //Humidity Value
     display.setTextSize(4);
     display.setTextColor(WHITE);
-    display.setCursor(40, 18);
-    display.println(humi);
+    display.setCursor(30, 18);
+    display.print(humi);
+    display.println('%');
     
     display.display();
   }
